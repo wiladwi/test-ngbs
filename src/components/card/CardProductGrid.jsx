@@ -14,7 +14,7 @@ const CardProductGrid = (props) => {
             {product.name}
           </Link>
         </h6>
-        <div className="btn-group  d-flex" role="group">
+        <div className="btn-group d-flex" role="group">
           <button
             type="button"
             className="btn btn-sm btn-primary"

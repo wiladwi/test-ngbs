@@ -2,8 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <React.Fragment>
-      <footer>
+    <footer>
         <div className="container-fluid bg-primary">
         </div>
         <div className="container-fluid bg-dark text-white">
@@ -23,7 +22,6 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-    </React.Fragment>
   );
 };
 export default Footer;
